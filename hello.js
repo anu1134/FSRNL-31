@@ -10,3 +10,4 @@ console.log("user1 is working");
 console.log("user2 is also working simultaneously");
 
 console.log("main branch chnges by user 1");
+console.log("feature branch chnges by user 2");
